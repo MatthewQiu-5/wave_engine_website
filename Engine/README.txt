@@ -22,7 +22,7 @@ MAC:
 
 LINUX (type these commands in terminal):
 cd Engine/
-sudo apt-get install python3-pil python3-pil.imagetk
+sudo apt-get install python3-tk python3-pil python3-pil.imagetk
 python3 gui.py
 
 
